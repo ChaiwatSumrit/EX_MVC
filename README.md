@@ -1,2 +1,2 @@
-# EX_MVC
+# EX_MVC API
 best MVC
